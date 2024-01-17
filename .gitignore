@@ -1,0 +1,7 @@
+.gitattributes
+pom.xml
+your_server.sh
+bin/
+debug/
+out/
+httpserver/*.class
